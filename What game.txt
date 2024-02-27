@@ -1,0 +1,5 @@
+// Java Game: Temple Run
+public class TempleRun {
+    public static void main(String[] args) {
+        System.out.println("Welcome to Temple Run!");
+        // Add your Temple Run game script here
